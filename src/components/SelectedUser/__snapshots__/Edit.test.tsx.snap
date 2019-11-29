@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Edit should render snapshot 1`] = `
+<div>
+  <h1
+    className="text-center"
+  >
+    TEST's Profile
+  </h1>
+  <div
+    className="form-group row"
+  >
+    <label
+      className="col-sm-2 col-form-label"
+    >
+      Name
+    </label>
+    <div
+      className="col-sm-10"
+    >
+      <input
+        className="form-control"
+        onChange={[Function]}
+        placeholder="Enter Name"
+        readOnly={true}
+        required={true}
+        type="text"
+        value="TEST"
+      />
+    </div>
+  </div>
+  <div
+    className="form-group row"
+  >
+    <label
+      className="col-sm-2 col-form-label"
+    >
+      Email
+    </label>
+    <div
+      className="col-sm-10"
+    >
+      <input
+        className="form-control"
+        onChange={[Function]}
+        placeholder="Enter Email"
+        readOnly={true}
+        type="email"
+        value="test@email.com"
+      />
+    </div>
+  </div>
+  <div
+    className="form-group row"
+  >
+    <label
+      className="col-sm-2 col-form-label"
+    >
+      Phone
+    </label>
+    <div
+      className="col-sm-10"
+    >
+      <input
+        className="form-control"
+        onChange={[Function]}
+        placeholder="Enter Phone"
+        readOnly={true}
+        required={true}
+        type="text"
+        value="1234678"
+      />
+    </div>
+  </div>
+  <div
+    className="row justify-content-around"
+  >
+    <button
+      className="btn btn-primary"
+      onClick={[Function]}
+    >
+      Edit
+    </button>
+    <button
+      className="btn btn-primary"
+      onClick={[Function]}
+    >
+      Back
+    </button>
+    <button
+      className="btn btn-danger"
+      onClick={[Function]}
+    >
+      Delete
+    </button>
+  </div>
+</div>
+`;

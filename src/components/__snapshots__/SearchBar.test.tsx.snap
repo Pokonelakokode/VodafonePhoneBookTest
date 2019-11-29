@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchBar should render snapshot 1`] = `
+<div
+  className="col-12 col-md-6 search-bar"
+>
+  <input
+    className="form-control"
+    onChange={[Function]}
+    placeholder="Search for contact"
+    type="text"
+    value=""
+  />
+</div>
+`;
+
+exports[`SelectedUser should render snapshot 1`] = `
+<div
+  className="col-12 col-md-6 search-bar"
+>
+  <input
+    className="form-control"
+    onChange={[Function]}
+    placeholder="Search for contact"
+    type="text"
+    value=""
+  />
+</div>
+`;

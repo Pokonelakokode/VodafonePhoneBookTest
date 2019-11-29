@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewUser should render snapshot 1`] = `
+<div
+  className="pointer-cursor"
+  id="NewContact"
+  onClick={[MockFunction]}
+>
+  +
+</div>
+`;

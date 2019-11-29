@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Letter should render snapshot 1`] = `
+<div
+  className="letter-selector"
+  onClick={[Function]}
+>
+  A
+</div>
+`;

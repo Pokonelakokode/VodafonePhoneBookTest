@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Letter should render snapshot 1`] = `
+<div
+  className="col-12 letters"
+>
+  <div
+    className="letter-selector"
+    onClick={[Function]}
+  >
+    C
+  </div>
+  <div
+    className="letter-selector"
+    onClick={[Function]}
+  >
+    E
+  </div>
+  <div
+    className="letter-selector"
+    onClick={[Function]}
+  >
+    G
+  </div>
+  <div
+    className="letter-selector"
+    onClick={[Function]}
+  >
+    K
+  </div>
+  <div
+    className="letter-selector"
+    onClick={[Function]}
+  >
+    L
+  </div>
+  <div
+    className="letter-selector"
+    onClick={[Function]}
+  >
+    M
+  </div>
+  <div
+    className="letter-selector"
+    onClick={[Function]}
+  >
+    N
+  </div>
+  <div
+    className="letter-selector"
+    onClick={[Function]}
+  >
+    P
+  </div>
+</div>
+`;
+
+exports[`LetterFilter should render snapshot 1`] = `
+<div
+  className="col-12 letters"
+>
+  <div
+    className="letter-selector"
+    onClick={[Function]}
+  >
+    C
+  </div>
+  <div
+    className="letter-selector"
+    onClick={[Function]}
+  >
+    E
+  </div>
+  <div
+    className="letter-selector"
+    onClick={[Function]}
+  >
+    G
+  </div>
+  <div
+    className="letter-selector"
+    onClick={[Function]}
+  >
+    K
+  </div>
+  <div
+    className="letter-selector"
+    onClick={[Function]}
+  >
+    L
+  </div>
+  <div
+    className="letter-selector"
+    onClick={[Function]}
+  >
+    M
+  </div>
+  <div
+    className="letter-selector"
+    onClick={[Function]}
+  >
+    N
+  </div>
+  <div
+    className="letter-selector"
+    onClick={[Function]}
+  >
+    P
+  </div>
+</div>
+`;

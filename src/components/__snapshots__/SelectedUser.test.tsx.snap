@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SelectedUser should render snapshot 1`] = `
+<div
+  className="row"
+>
+  <h1>
+    Leanne Graham's Profile
+  </h1>
+</div>
+`;

@@ -1,0 +1,269 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contacts should render snapshot 1`] = `
+<div
+  className="row"
+  id="Contacts"
+>
+  <div
+    className="col-12 col-md-6 col-lg-4 text-center pt-2"
+    onClick={[Function]}
+  >
+    <div
+      className="user-card"
+    >
+      <div
+        className="header"
+      >
+        <h5
+          className="col-12"
+        >
+          Chelsey Dietrich
+        </h5>
+      </div>
+      <div>
+        <p>
+          Lucio_Hettinger@annie.ca
+        </p>
+        <p>
+          (254)954-1289
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="col-12 col-md-6 col-lg-4 text-center pt-2"
+    onClick={[Function]}
+  >
+    <div
+      className="user-card"
+    >
+      <div
+        className="header"
+      >
+        <h5
+          className="col-12"
+        >
+          Clementina DuBuque
+        </h5>
+      </div>
+      <div>
+        <p>
+          Rey.Padberg@karina.biz
+        </p>
+        <p>
+          024-648-3804
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="col-12 col-md-6 col-lg-4 text-center pt-2"
+    onClick={[Function]}
+  >
+    <div
+      className="user-card"
+    >
+      <div
+        className="header"
+      >
+        <h5
+          className="col-12"
+        >
+          Clementine Bauch
+        </h5>
+      </div>
+      <div>
+        <p>
+          Nathan@yesenia.net
+        </p>
+        <p>
+          1-463-123-4447
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="col-12 col-md-6 col-lg-4 text-center pt-2"
+    onClick={[Function]}
+  >
+    <div
+      className="user-card"
+    >
+      <div
+        className="header"
+      >
+        <h5
+          className="col-12"
+        >
+          Ervin Howell
+        </h5>
+      </div>
+      <div>
+        <p>
+          Shanna@melissa.tv
+        </p>
+        <p>
+          010-692-6593 x09125
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="col-12 col-md-6 col-lg-4 text-center pt-2"
+    onClick={[Function]}
+  >
+    <div
+      className="user-card"
+    >
+      <div
+        className="header"
+      >
+        <h5
+          className="col-12"
+        >
+          Glenna Reichert
+        </h5>
+      </div>
+      <div>
+        <p>
+          Chaim_McDermott@dana.io
+        </p>
+        <p>
+          (775)976-6794 x41206
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="col-12 col-md-6 col-lg-4 text-center pt-2"
+    onClick={[Function]}
+  >
+    <div
+      className="user-card"
+    >
+      <div
+        className="header"
+      >
+        <h5
+          className="col-12"
+        >
+          Kurtis Weissnat
+        </h5>
+      </div>
+      <div>
+        <p>
+          Telly.Hoeger@billy.biz
+        </p>
+        <p>
+          210.067.6132
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="col-12 col-md-6 col-lg-4 text-center pt-2"
+    onClick={[Function]}
+  >
+    <div
+      className="user-card"
+    >
+      <div
+        className="header"
+      >
+        <h5
+          className="col-12"
+        >
+          Leanne Graham
+        </h5>
+      </div>
+      <div>
+        <p>
+          Sincere@april.biz
+        </p>
+        <p>
+          1-770-736-8031 x56442
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="col-12 col-md-6 col-lg-4 text-center pt-2"
+    onClick={[Function]}
+  >
+    <div
+      className="user-card"
+    >
+      <div
+        className="header"
+      >
+        <h5
+          className="col-12"
+        >
+          Mrs. Dennis Schulist
+        </h5>
+      </div>
+      <div>
+        <p>
+          Karley_Dach@jasper.info
+        </p>
+        <p>
+          1-477-935-8478 x6430
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="col-12 col-md-6 col-lg-4 text-center pt-2"
+    onClick={[Function]}
+  >
+    <div
+      className="user-card"
+    >
+      <div
+        className="header"
+      >
+        <h5
+          className="col-12"
+        >
+          Nicholas Runolfsdottir V
+        </h5>
+      </div>
+      <div>
+        <p>
+          Sherwood@rosamond.me
+        </p>
+        <p>
+          586.493.6943 x140
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="col-12 col-md-6 col-lg-4 text-center pt-2"
+    onClick={[Function]}
+  >
+    <div
+      className="user-card"
+    >
+      <div
+        className="header"
+      >
+        <h5
+          className="col-12"
+        >
+          Patricia Lebsack
+        </h5>
+      </div>
+      <div>
+        <p>
+          Julianne.OConner@kory.org
+        </p>
+        <p>
+          493-170-9623 x156
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
